@@ -50,29 +50,6 @@ Traditional maintenance relies on fixed schedules, often leading to unexpected b
 
 ---
 
-## 📁 Project Structure
-
-📦 ai-predictive-maintenance/
-├── app.py                  # Main app (Streamlit/Flask) for user interface  
-├── model/
-│   ├── xgboost_model.pkl   # Trained ML model  
-│   ├── scaler.pkl          # Pre-fitted scaler (StandardScaler)  
-│   └── pca.pkl             # Optional PCA transformer  
-├── blockchain/             # (Future) Smart contracts & blockchain scripts  
-│   └── maintenance_log.sol # Solidity contract for secure maintenance logging  
-├── data/
-│   └── failure_data.csv    # Sample training/testing dataset  
-├── utils/
-│   └── preprocess.py       # Data cleaning and preprocessing functions  
-├── test_cases/
-│   └── test_inputs.json    # Simulated inputs for failure mode testing  
-├── training/
-│   └── train_model.py      # Script for training and saving the ML model  
-├── requirements.txt        # Python dependencies  
-└── README.md               # Project documentation  
-
----
-
 ## 🙋‍♀️ Author
 
 Developed with a vision to make industrial systems **smarter, reliable, and future-ready** ✨  
