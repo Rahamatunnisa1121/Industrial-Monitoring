@@ -53,7 +53,7 @@ Traditional maintenance relies on fixed schedules, often leading to unexpected b
 ## 🙋‍♀️ Author
 
 Developed with a vision to make industrial systems **smarter, reliable, and future-ready** ✨  
-Made with ❤️ Rahamatunnisa Shaik
+Made with ❤️ by Rahamatunnisa Shaik and Sirisha Veturi
 
 ---
 
