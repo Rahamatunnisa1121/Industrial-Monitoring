@@ -2,11 +2,26 @@ import streamlit as st
 import numpy as np
 import joblib
 import xgboost as xgb
+from transformers import GPT2Tokenizer, GPT2LMHeadModel, pipeline
+import torch
 
 # --- Load Pre-trained Objects ---
 scaler = joblib.load("scaler.pkl")
 pca = joblib.load("pca.pkl")
 model = joblib.load("xgboost_model.pkl")  # XGBoost Booster
+
+# ✅ MUST BE FIRST Streamlit command
+st.set_page_config(page_title="AI Maintenance Assistant", layout="wide")
+
+# --- GPT-2 Model Loader ---
+@st.cache_resource
+def load_local_chatbot():
+    tokenizer = GPT2Tokenizer.from_pretrained("gpt2-machine-health")
+    model = GPT2LMHeadModel.from_pretrained("gpt2-machine-health")
+    model.eval()
+    return pipeline("text-generation", model=model, tokenizer=tokenizer)
+
+chatbot = load_local_chatbot()
 
 # --- Status Descriptions ---
 status_map = {
@@ -56,8 +71,6 @@ remedy = {
 }
 
 # --- Page Setup ---
-st.set_page_config(page_title="AI Maintenance Assistant", layout="wide")
-
 st.title("🧠 AI Predictive Maintenance Assistant")
 st.markdown("Optimize your operations with real-time machine failure prediction and tailored maintenance guidance.")
 st.divider()
@@ -110,16 +123,14 @@ st.markdown("Click the button below to run the prediction based on your inputs:"
 
 if st.button("🔍 Predict Now"):
     try:
-        # Preprocessing
         scaled = scaler.transform(input_data)
         reduced = pca.transform(scaled)
         dmatrix = xgb.DMatrix(reduced)
 
-        # Predict (get class probabilities)
         prediction_probs = model.predict(dmatrix)
-        prediction = int(np.argmax(prediction_probs[0]))  # Most likely class
+        prediction = int(np.argmax(prediction_probs[0]))
+        st.session_state.prediction = prediction
 
-        # Show prediction results
         status = status_map.get(prediction, "❓ Unknown Condition")
         st.markdown(f"### {status}")
 
@@ -127,7 +138,6 @@ if st.button("🔍 Predict Now"):
         for item in remedy.get(prediction, ["No advice available."]):
             st.markdown(f"- {item}")
 
-        # Show probability breakdown
         st.markdown("#### 🔢 Class Probabilities")
         for i, prob in enumerate(prediction_probs[0]):
             st.markdown(f"- Class {i}: {prob:.2%}")
@@ -135,6 +145,47 @@ if st.button("🔍 Predict Now"):
     except Exception as e:
         st.error(f"❌ Error during prediction: {str(e)}")
 
+# --- Chatbot Section ---
+st.markdown("## 💬 Ask AI Assistant")
+
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
+
+user_input = st.text_input("👨‍🔧 Ask about your machine's condition, tips, or next steps:")
+
+if user_input:
+    st.session_state.chat_history.append({"role": "user", "content": user_input})
+
+    # Prediction context
+    if "prediction" in st.session_state:
+        context = status_map.get(st.session_state.prediction, "Unknown condition")
+        suggestions = remedy.get(st.session_state.prediction, ["No suggestions available."])
+        suggestion_text = "\n".join(f"- {s}" for s in suggestions)
+    else:
+        context = "Machine condition not predicted yet."
+        suggestion_text = "Please run the prediction to get condition insights."
+
+    prompt = f"""Condition: {context}
+Maintenance Suggestions:
+{suggestion_text}
+
+User: {user_input}
+Assistant:"""
+
+    try:
+        output = chatbot(prompt, max_length=150, num_return_sequences=1, do_sample=True)[0]["generated_text"]
+        reply = output.split("Assistant:")[-1].strip()
+        st.session_state.chat_history.append({"role": "assistant", "content": reply})
+    except Exception as e:
+        st.error(f"❌ Chatbot error: {str(e)}")
+
+# --- Display chat messages ---
+for msg in st.session_state.chat_history:
+    if msg["role"] == "user":
+        st.markdown(f"👤 **You**: {msg['content']}")
+    else:
+        st.markdown(f"🤖 **Bot**: {msg['content']}")
+
 # --- Footer ---
 st.divider()
-st.caption("Developed with ❤️ using XGBoost + Streamlit for smarter maintenance solutions.")
+st.caption("Developed with ❤️ using GPT-2 + XGBoost + Streamlit for smarter maintenance solutions.")
