@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Smoke coming from the main control board.\nRemedy: Initiate emergency shutdown and call support."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: The unit gets warm quickly even during light tasks.\nRemedy: Inspect the cooling fans and clear any dust buildup."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Surface temperature rises rapidly on startup.\nRemedy: Ensure thermal paste is properly applied."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Temperature exceeds safe levels during idle mode.\nRemedy: Check for blocked airflow and clean air filters."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: Fan speed remains low despite high temps.\nRemedy: Reconfigure fan speed settings or replace faulty fan."
+  },
+  {
+    "text": "Condition: Light Stress\nProblem: System heats up under low load.\nRemedy: Verify that heat sinks are attached correctly."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: System reboots randomly under moderate use.\nRemedy: Examine circuit breakers and connectors."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Sudden dimming of control panel lights.\nRemedy: Inspect electrical circuits and replace faulty wires."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Load balancing errors appearing frequently.\nRemedy: Perform an electrical inspection and recalibrate."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Voltage levels fluctuate during operation.\nRemedy: Check power input source and stabilize it."
+  },
+  {
+    "text": "Condition: Medium Stress\nProblem: Unusual buzzing sound from power module.\nRemedy: Test the capacitors and grounding."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Motor overheating and performance drops.\nRemedy: Cool system and verify torque limits."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Machine shudders under load.\nRemedy: Reduce the mechanical load and lubricate joints."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Irregular gear motion under torque.\nRemedy: Inspect gears and replace if damaged."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: Severe vibration during rotation.\nRemedy: Perform shaft alignment and tighten bolts."
+  },
+  {
+    "text": "Condition: High Stress\nProblem: High-pitched sound from motor at peak use.\nRemedy: Check motor bearings and adjust torque."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Increased resistance while drilling.\nRemedy: Inspect tool edges and lubricate."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Machine emits high noise during cutting.\nRemedy: Inspect for dull or broken tool bits."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Cutting tool is leaving burrs.\nRemedy: Replace the worn tool insert."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool effectiveness has decreased gradually.\nRemedy: Sharpen or change the cutting head."
+  },
+  {
+    "text": "Condition: Tool Wear\nProblem: Tool marks are uneven on material.\nRemedy: Check for misalignment or wear."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Complete loss of signal from sensors.\nRemedy: Run full diagnostics and consider hardware replacement."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Machine shuts down abruptly with error code 505.\nRemedy: Inspect central processor and power delivery system."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Fire alarm triggered near compressor.\nRemedy: Cut power and inspect for short circuits."
+  },
+  {
+    "text": "Condition: Critical Failure\nProblem: Oil leakage and burning smell detected.\nRemedy: Shut off system and check seals and valves."
+  }
+]
